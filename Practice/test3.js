@@ -4,3 +4,5 @@ let num2 = 20;
 let sum = num1 + num2;
 
 console.log("Sum is: " + sum);
+console.log(5==="5");
+console.log(5!==="5");
